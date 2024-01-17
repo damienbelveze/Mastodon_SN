@@ -32,4 +32,4 @@ A ces débuts, et même si Twitter n'a jamais été indemne de critique en mati�
 
 
 
-## Les raisons de choisir Mastodon
+## Les raisons de choisir le Fédivers et Mastodon
