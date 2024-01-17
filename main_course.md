@@ -24,11 +24,10 @@ A ces débuts, et même si Twitter n'a jamais été indemne de critique en mati�
 
                 --{{3 UK English Male}}--
 
-> Their first purpose was no more, then onely the satisfaction of breathing a freer air, and of conversing in quiet one with another, without being ingag’d in the passions, and madness of that dismal Age”
 
 ### et pourquoi c'est devenu impossible de continuer à l'utiliser aujourd'hui ?
 
-
+> Their first purpose was no more, then onely the satisfaction of breathing a freer air, and of conversing in quiet one with another, without being ingag’d in the passions, and madness of that dismal Age
 
 
 
