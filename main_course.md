@@ -4,7 +4,7 @@ author:   Damien Belvèze
 date: 02/04/2023
 lang:     fr
 narrator: French Male
-link: custom.css
+link: https://github.com/damienbelveze/Mastodon_SN/blob/main/custom.css
 -->
 # Utiliser Mastodon et le Fédivers pour communiquer sur sa recherche
 
