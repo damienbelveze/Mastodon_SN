@@ -4,13 +4,15 @@ author:   Damien Belvèze
 date: 02/04/2023
 lang:     fr
 narrator: French Male
+link: custom.css
 -->
 # Utiliser Mastodon et le Fédivers pour communiquer sur sa recherche
 
-                    --{{1}}--
+                    
 
 ## Dégoûté de Twitter ? 
 
+                    --{{0}}--
                     
 Mastodon est un logiciel de microbloguing : vos messages doivent être limités en nombre de caractères. Vous avez peut-être pratiqué ce type d'outils de microblogging dans le passé avec **Twitter**. Si c'est le cas, vous pouvez lire ce qui suit, sinon, vous pouvez vous rendre directement à l'[étape suivante](main_course.md#les-raisons-de-choisir-mastodon) 
 
