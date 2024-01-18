@@ -16,7 +16,7 @@ link: https://damienbelveze.github.io/Mastodon_SN/custom.css
 
                     --{{0}}--
                     
-<img src="images/mastodon.jpg" alt="le Mamouth de Mastodon se tient assis au milieu d'une forêt tranquille avec une tasse de café et dit this is fine">
+<img src="images/mastodon.jpg" alt="le Mamouth de Mastodon se tient assis au milieu d'une forêt tranquille avec une tasse de café et dit this is fine" title="Mastodon">
 
 
 
