@@ -16,7 +16,7 @@ link: https://damienbelveze.github.io/Mastodon_SN/custom.css
 
                     --{{0}}--
                     
-!['Mastodon','le Mamouth de Mastodon se tient assis au milieu d'une forêt tranquille avec une tasse de café et dit this is fine'](images/mastodon.jpg)
+![Mastodon](images/mastodon.jpg "le Mamouth de Mastodon se tient assis au milieu d'une forêt tranquille avec une tasse de café et dit this is fine")
 
 
 Mastodon est un logiciel de microbloguing : vos messages doivent être limités en nombre de caractères. Vous avez peut-être pratiqué ce type d'outils de microblogging dans le passé avec **Twitter**. Si c'est le cas, vous pouvez lire ce qui suit, sinon, vous pouvez vous rendre directement à l'[étape suivante](main_course.md#les-raisons-de-choisir-mastodon)
